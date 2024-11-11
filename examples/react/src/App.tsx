@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import SaveToGooglePayButton from '@google-pay/save-button-react';
+import SaveToGooglePayButton from '@dineengine/save-button-react';
 import React, { useState } from 'react';
 import './App.css';
 

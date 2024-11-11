@@ -1,5 +1,5 @@
 <script lang="ts">
-  import '@google-pay/save-button-element';
+  import '@dineengine/save-button-element';
 
   let height = 'small';
   let size = '';

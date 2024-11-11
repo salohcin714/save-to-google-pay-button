@@ -29,7 +29,7 @@ jobs:
         with:
           node-version: '12.x'
           registry-url: https://npm.pkg.github.com/
-          scope: '@google-pay'
+          scope: '@dineengine'
       - name: prebuild
         run: scripts/prebuild.sh
       - run: npm install
@@ -48,17 +48,17 @@ jobs:
         with:
           node-version: '12.x'
           registry-url: https://wombat-dressing-room.appspot.com
-          scope: '@google-pay'
+          scope: '@dineengine'
 
-      - name: publish @google-pay/save-button-react to npm (via wombat dressing)
+      - name: publish @dineengine/save-button-react to npm (via wombat dressing)
         run: cd src/save-button-react && npm publish --access=public
         env:
           NODE_AUTH_TOKEN: ${{secrets.TOKEN_BUTTON_REACT}}
-      - name: publish @google-pay/save-button-element to npm (via wombat dressing)
+      - name: publish @dineengine/save-button-element to npm (via wombat dressing)
         run: cd src/save-button-element && npm publish --access=public
         env:
           NODE_AUTH_TOKEN: ${{secrets.TOKEN_BUTTON_ELEMENT}}
-      - name: publish @google-pay/save-button-angular to npm (via wombat dressing)
+      - name: publish @dineengine/save-button-angular to npm (via wombat dressing)
         run: cd src/save-button-angular/dist && npm publish --access=public
         env:
           NODE_AUTH_TOKEN: ${{secrets.TOKEN_BUTTON_ANGULAR}}

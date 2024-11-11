@@ -18,7 +18,7 @@ button into your website using standards based custom elements. Web components c
 web application as is, and is also [compatible with many popular web frameworks][custom-elements-compatible].
 
 ```sh
-npm install @google-pay/save-button-element
+npm install @dineengine/save-button-element
 ```
 
 Find out more about the [Save to Google Pay web component button][save-button-element].
@@ -34,7 +34,7 @@ A separate [Save to Google Pay React button][save-button-react] as been created 
 Save to Google Pay button into your React website.
 
 ```sh
-npm install @google-pay/save-button-react
+npm install @dineengine/save-button-react
 ```
 
 Find out more about the [Save to Google Pay React button][save-button-react].
@@ -48,7 +48,7 @@ integrate the Save to Google Pay button into your Angular website. The advantage
 Google Pay button over the web component is that it eliminates the need to register `CUSTOM_ELEMENTS_SCHEMA`.
 
 ```sh
-npm install @google-pay/save-button-angular
+npm install @dineengine/save-button-angular
 ```
 
 Find out more about the [Save to Google Pay Angular button][save-button-angular].
@@ -69,6 +69,6 @@ Pay button project.
 [save-button-angular]: src/save-button-angular
 [live-demo]: https://developers.google.com/pay/api/web/guides/resources/demos
 [custom-elements-compatible]: https://custom-elements-everywhere.com/
-[npm-element]: https://www.npmjs.com/package/@google-pay/save-button-element
-[npm-react]: https://www.npmjs.com/package/@google-pay/save-button-react
-[npm-angular]: https://www.npmjs.com/package/@google-pay/save-button-angular
+[npm-element]: https://www.npmjs.com/package/@dineengine/save-button-element
+[npm-react]: https://www.npmjs.com/package/@dineengine/save-button-react
+[npm-angular]: https://www.npmjs.com/package/@dineengine/save-button-angular

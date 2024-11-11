@@ -3,13 +3,13 @@
 This is the web component for the Save to Google Pay button. This component can be used in standard HTML websites as
 well as websites built with many popular JavaScript frameworks.
 
-Note that React and Angular developers should use the `@google-pay/save-button-react` and
-`@google-pay/save-button-angular` versions of this component.
+Note that React and Angular developers should use the `@dineengine/save-button-react` and
+`@dineengine/save-button-angular` versions of this component.
 
 ## Installation
 
 ```sh
-npm install @google-pay/save-button-element
+npm install @dineengine/save-button-element
 ```
 
 ## Example usage: HTML website

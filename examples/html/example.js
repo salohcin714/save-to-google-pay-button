@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import './node_modules/@google-pay/save-button-element/dist/index.js';
+import './node_modules/@dineengine/save-button-element/dist/index.js';
 
 const button = document.querySelector('save-to-google-pay-button');
 

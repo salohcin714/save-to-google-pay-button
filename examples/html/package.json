@@ -13,6 +13,6 @@
     "serve": "^11.3.2"
   },
   "dependencies": {
-    "@google-pay/save-button-element": "file:../../src/save-button-element"
+    "@dineengine/save-button-element": "file:../../src/save-button-element"
   }
 }

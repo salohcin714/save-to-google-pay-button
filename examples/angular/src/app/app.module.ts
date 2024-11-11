@@ -19,7 +19,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { SaveToGooglePayButtonModule } from '@google-pay/save-button-angular';
+import { SaveToGooglePayButtonModule } from '@dineengine/save-button-angular';
 
 @NgModule({
   declarations: [AppComponent],

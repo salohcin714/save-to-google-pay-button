@@ -5,13 +5,13 @@ This is the Angular component for the Save to Google Pay button.
 ## Installation
 
 ```sh
-npm install @google-pay/save-button-angular
+npm install @dineengine/save-button-angular
 ```
 
 Import the module into your application:
 
 ```ts
-import { SaveToGooglePayButtonModule } from '@google-pay/save-button-angular';
+import { SaveToGooglePayButtonModule } from '@dineengine/save-button-angular';
 
 @NgModule({
   // ...

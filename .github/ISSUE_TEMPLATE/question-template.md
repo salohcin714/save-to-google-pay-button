@@ -10,6 +10,6 @@ assignees: ''
 
 This question is related to:
 
-- [ ] React component (`@google-pay/save-button-react`)
-- [ ] Custom element (`@google-pay/save-button-element`)
-- [ ] Angular component (`@google-pay/save-button-angular`)
+- [ ] React component (`@dineengine/save-button-react`)
+- [ ] Custom element (`@dineengine/save-button-element`)
+- [ ] Angular component (`@dineengine/save-button-angular`)

@@ -24,7 +24,7 @@
     "typescript": "^4.3.2"
   },
   "dependencies": {
-    "@google-pay/save-button-element": "file:../../src/save-button-element",
+    "@dineengine/save-button-element": "file:../../src/save-button-element",
     "sirv-cli": "^1.0.0"
   }
 }

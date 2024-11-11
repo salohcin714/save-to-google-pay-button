@@ -5,7 +5,7 @@ This is the React component for the Save to Google Pay button.
 ## Installation
 
 ```sh
-npm install @google-pay/save-button-react
+npm install @dineengine/save-button-react
 ```
 
 ## Example usage

@@ -1,5 +1,5 @@
 {
-  "name": "@google-pay/save-button-angular",
+  "name": "@dineengine/save-button-angular",
   "version": "0.0.0",
   "description": "Angular component for the Save to Google Pay button",
   "main": "dist/index.js",

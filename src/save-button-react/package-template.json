@@ -1,5 +1,5 @@
 {
-  "name": "@google-pay/save-button-react",
+  "name": "@dineengine/save-button-react",
   "version": "0.0.0",
   "description": "React component for Google Pay button",
   "main": "dist/index.es5.min.js",
