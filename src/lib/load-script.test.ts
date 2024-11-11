@@ -74,6 +74,8 @@ it('returns a different promise for the same resource when the first request fai
   try {
     await first;
   } catch (err) {
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore
     expect(err.message).toBe('Unable to load script https://pay.google.com/gp/p/js/pay.js');
   }
 
