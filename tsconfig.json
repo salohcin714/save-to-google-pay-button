@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
-    "target": "es2020",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "target": "ES2022",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": false,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -17,7 +21,8 @@
     "declaration": false,
     "outDir": "build",
     "baseUrl": "./",
-    "sourceMap": true
+    "sourceMap": true,
+    "useDefineForClassFields": false
   },
   "angularCompilerOptions": {
     "skipTemplateCodegen": true,
